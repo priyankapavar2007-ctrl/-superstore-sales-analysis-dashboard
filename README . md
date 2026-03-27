@@ -1,1 +1,25 @@
-Analyzed Superstore dataset using Excel/Power BI to uncover insights on sales, profit, and customer behavior. Built interactive dashboards showing category-wise performance, regional trends, and profit analysis.
+# 📊 Superstore Sales Analysis Dashboard
+
+## 🔍 Overview
+This project analyzes Superstore sales data to understand sales performance, profit, and customer trends.
+
+## 🛠 Tools Used
+- Excel
+- Power BI (optional)
+- SQL (optional)
+
+## 📂 Dataset
+Superstore sales dataset (.xlsx)
+
+## 📈 Key Insights
+- Total Sales: 
+- Total Profit: 
+- Top Category: 
+- Highest Sales Region: 
+- Loss-making Segment: 
+
+## 🎯 Objective
+To identify business insights and improve decision-making using data analysis.
+
+## 👤 Author
+Your Name
