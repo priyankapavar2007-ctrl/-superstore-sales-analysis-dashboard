@@ -1,25 +1,25 @@
-# 📊 Superstore Sales Analysis Dashboard
+ 📊 Superstore Sales Analysis Dashboard
 
-## 🔍 Overview
+🔍 Overview
 This project analyzes Superstore sales data to understand sales performance, profit, and customer trends.
 
-## 🛠 Tools Used
+🛠 Tools Used
 - Excel
-- Power BI (optional)
-- SQL (optional)
 
-## 📂 Dataset
+ 📂 Dataset
 Superstore sales dataset (.xlsx)
 
-## 📈 Key Insights
-- Total Sales: 
-- Total Profit: 
-- Top Category: 
-- Highest Sales Region: 
-- Loss-making Segment: 
+ 📈 Key Insights
+- Total Sales:93610.049 
+- Avg Profit:109.4750251 
+- Top Category: tecnology
+- Highest profit Region: East
+- Loss-making Segment: Home office
 
-## 🎯 Objective
+🎯 Objective
 To identify business insights and improve decision-making using data analysis.
 
-## 👤 Author
-Your Name
+👤 name  priyanka
+
+
+
